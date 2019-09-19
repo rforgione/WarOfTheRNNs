@@ -1,3 +1,4 @@
 models/*
 book_text
 *.pth
+*.csv
